@@ -1,0 +1,3 @@
+[submodule "nuplan-devkit"]
+	path = nuplan-devkit
+	url = https://github.com/kanikel/nuplan-devkit.git
